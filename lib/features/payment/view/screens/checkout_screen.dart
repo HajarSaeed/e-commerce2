@@ -240,7 +240,7 @@ class CheckoutScreen extends StatelessWidget {
                                   // Capturing user input for rating
                                   RatingBar.builder(
                                     initialRating: intialRating,
-                                    itemSize: 20,
+                                    itemSize: 21,
                                     minRating: 1,
                                     direction: Axis.horizontal,
                                     allowHalfRating: true,
